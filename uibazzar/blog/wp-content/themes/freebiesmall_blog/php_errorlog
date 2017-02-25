@@ -1,0 +1,8 @@
+[08-Feb-2017 14:03:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/markupoc/public_html/blog/wp-content/themes/freebiesmall_blog/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/markupoc/public_html/blog/wp-content/themes/freebiesmall_blog/index.php on line 16
+[08-Feb-2017 14:03:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/markupoc/public_html/blog/wp-content/themes/freebiesmall_blog/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/markupoc/public_html/blog/wp-content/themes/freebiesmall_blog/index.php on line 16
